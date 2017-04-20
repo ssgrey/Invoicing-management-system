@@ -13,10 +13,10 @@
   (String sql)都可以让各个表对应的操作共用，各个表都有对应的javabean对象，增删改查主要是针对这些对象，体现了oo思想，具体实现查看
 Dao.java中代码.数据库的备份用到了mysql的mysqldump，调用了cmd命令执行mysqldump.exe
 ##### 3.展示图片
-      ![image](https://github.com/Little-Grey/Invoicing-management-system/tree/master/readmeIMG/01.png)
-      ![image](https://github.com/Little-Grey/Invoicing-management-system/tree/master/readmeIMG/02.png)
-      ![image](https://github.com/Little-Grey/Invoicing-management-system/tree/master/readmeIMG/03.png)
-      ![image](https://github.com/Little-Grey/Invoicing-management-system/tree/master/readmeIMG/05.png)
-      ![image](https://github.com/Little-Grey/Invoicing-management-system/tree/master/readmeIMG/07.png)
-      ![image](https://github.com/Little-Grey/Invoicing-management-system/tree/master/readmeIMG/08.png)
+   ![Image](https://github.com/Little-Grey/Invoicing-management-system/tree/master/readmeIMG/01.png)
+   ![Image](https://github.com/Little-Grey/Invoicing-management-system/tree/master/readmeIMG/02.png)
+   ![image](https://github.com/Little-Grey/Invoicing-management-system/tree/master/readmeIMG/03.png)
+   ![image](https://github.com/Little-Grey/Invoicing-management-system/tree/master/readmeIMG/05.png)
+   ![image](https://github.com/Little-Grey/Invoicing-management-system/tree/master/readmeIMG/07.png)
+   ![image](https://github.com/Little-Grey/Invoicing-management-system/tree/master/readmeIMG/08.png)
       
