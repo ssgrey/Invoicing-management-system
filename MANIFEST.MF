@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: lib/commons-dbcp2-2.1.1.jar lib/commons-logging-1.2.jar lib/commons-pool2-2.4.2.jar lib/junit4.4.jar lib/mysql-connector-java-5.1.40-bin.jar
+Main-Class: com.hui.login.LoginDialog
+
