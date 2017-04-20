@@ -12,11 +12,8 @@
   一个表对应一个Dao，都写在一个Dao里，比较方便像一些insert（String sql）,update(String sql),findForResultSet(String sql),findForList
   (String sql)都可以让各个表对应的操作共用，各个表都有对应的javabean对象，增删改查主要是针对这些对象，体现了oo思想，具体实现查看
 Dao.java中代码.数据库的备份用到了mysql的mysqldump，调用了cmd命令执行mysqldump.exe
-##### 3.展示图片
-   ![Image](https://github.com/Little-Grey/Invoicing-management-system/tree/master/readmeIMG/01.png)
-   ![Image](https://github.com/Little-Grey/Invoicing-management-system/tree/master/readmeIMG/02.png)
-   ![image](https://github.com/Little-Grey/Invoicing-management-system/tree/master/readmeIMG/03.png)
-   ![image](https://github.com/Little-Grey/Invoicing-management-system/tree/master/readmeIMG/05.png)
-   ![image](https://github.com/Little-Grey/Invoicing-management-system/tree/master/readmeIMG/07.png)
-   ![image](https://github.com/Little-Grey/Invoicing-management-system/tree/master/readmeIMG/08.png)
+##### 3.图片
+![](https://github.com/Little-Grey/Invoicing-management-system/raw/master/readmeIMG/01.png)
+![](https://github.com/Little-Grey/Invoicing-management-system/raw/master/readmeIMG/07.png)
+![](https://github.com/Little-Grey/Invoicing-management-system/raw/master/readmeIMG/08.png)
       
